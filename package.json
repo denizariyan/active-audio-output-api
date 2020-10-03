@@ -1,0 +1,25 @@
+{
+  "name": "active-audio-output-api",
+  "version": "1.0.0",
+  "description": "active-audio-output-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denizariyan/active-audio-output-api.git"
+  },
+  "author": "denizariyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denizariyan/active-audio-output-api/issues"
+  },
+  "homepage": "https://github.com/denizariyan/active-audio-output-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "wallaby": {
+    "autoDetect": true
+  }
+}
