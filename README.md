@@ -1,1 +1,1 @@
-active-audio-output-api
+TODO: add documentation and schematics
