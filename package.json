@@ -19,5 +19,9 @@
   "homepage": "https://github.com/denizariyan/active-audio-output-api#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "eslint-config-google": "^0.14.0"
   }
 }
