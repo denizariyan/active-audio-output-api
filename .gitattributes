@@ -1,0 +1,4 @@
+external/source/EndPointController/SoundDevice.cpp linguist-vendored
+external/source/EndPointController/SoundDeviceController.cpp linguist-vendored
+external/source/EndPointController/SoundDeviceController.h linguist-vendored
+external/source/EndPointController/SoundDevice.h linguist-vendored
