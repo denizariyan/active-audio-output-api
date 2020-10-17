@@ -57,5 +57,5 @@ void loop()
     Serial.println("Error in WiFi connection");
   }
 
-  delay(50); //Send a request every 30 seconds
+  delay(50);
 }
