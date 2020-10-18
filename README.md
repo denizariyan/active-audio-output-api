@@ -1,6 +1,6 @@
 # Active Audio Output Button
 
-Active Audio Output Button is an ESP8266 project to change the active audio output of the computer running the server script via the click of a single button.
+Active Audio Output Button is an ESP8266 project to change the active audio output of the computer running the server script via the click of a single button. This project is a  physical alternative of [Active Audio Output Changer](https://github.com/denizariyan/active-audio-output-changer) which works as a web-app.
 
 ## Required hardware
 1. ESP8266 or anything similar that can make a POST request.
